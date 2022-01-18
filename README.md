@@ -13,4 +13,6 @@ Simpsons Classification was a hometask in DLS course MIPT that I have passed in 
 
 Product Analysis - Analysis of the mobile app "Delivery Club" that I prepared for my Product-management course from Mail.ru Group.
 
+Final Project PM - final project product-management Mail.ru group course made with Figma. Prototype of the mobile app of YULA.
+
 FIFA project - my own project, where I created a mobile app using Python framework KIVY. My app chooses group for teams playing in FIFA WC tournament. (32 teams)
