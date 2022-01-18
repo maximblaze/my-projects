@@ -16,3 +16,5 @@ Product Analysis - Analysis of the mobile app "Delivery Club" that I prepared fo
 Final Project PM - final project product-management Mail.ru group course made with Figma. Prototype of the mobile app of YULA.
 
 FIFA project - my own project, where I created a mobile app using Python framework KIVY. My app chooses group for teams playing in FIFA WC tournament. (32 teams)
+
+C5ER - SberSeasons Diploma
